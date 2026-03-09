@@ -25,6 +25,7 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 The main stack of tools and solutions used in this project:
 
 - **[Stripe](https://stripe.com)** - Payment processing and billing
+- **[Clerk](https://clerk.com)** - Authentication and user management
 
 ## Learn More
 
