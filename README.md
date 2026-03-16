@@ -24,6 +24,12 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 The main stack of tools and solutions used in this project:
 
+- **[Next.js](https://nextjs.org)** - App framework for the frontend and server rendering
+- **[Tailwind CSS](https://tailwindcss.com)** - Utility-first styling workflow
+- **[PostgreSQL](https://www.postgresql.org)** - Primary relational database
+- **[Prisma](https://www.prisma.io)** - ORM and schema management
+- **[Supabase](https://supabase.com)** - Postgres-focused platform and database ecosystem
+- **[Resend](https://resend.com)** - Transactional email delivery
 - **[Stripe](https://stripe.com)** - Payment processing and billing
 - **[Clerk](https://clerk.com)** - Authentication and user management
 
