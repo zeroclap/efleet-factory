@@ -33,6 +33,15 @@ The main stack of tools and solutions used in this project:
 - **[Stripe](https://stripe.com)** - Payment processing and billing
 - **[Clerk](https://clerk.com)** - Authentication and user management
 
+## Skills
+
+This workspace also tracks installed agent skills in `skills-lock.json`.
+
+- **`next-best-practices`** - Installed from **`vercel-labs/next-skills`** via GitHub for Next.js best practices
+- **`prisma-cli`** - Installed from **`prisma/skills`** via GitHub for Prisma CLI workflows and commands
+- **`prisma-client-api`** - Installed from **`prisma/skills`** via GitHub for Prisma Client query and API usage
+- **`supabase-postgres-best-practices`** - Installed from **`supabase/agent-skills`** via GitHub for Postgres and Supabase database best practices
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
